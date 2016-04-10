@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_background_color">#ff25282D</color>
+    <color name="actionbar_background_color_dark">#ff25282D</color>
+
+    <color name="mms_theme_color">#ff1b1b1b</color>
+    <color name="mms_theme_color_dark">#ff101010</color>
+    <color name="mms_theme_color_accent">#ff212021</color>
+
+    <color name="actionbar_text">#ff777777</color>
+</resources>

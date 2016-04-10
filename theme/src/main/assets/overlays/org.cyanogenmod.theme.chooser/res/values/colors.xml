@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#ff0a0a0a</color>
+    <color name="primary">#ff151515</color>
+    <color name="accent">#ff151515</color>
+	<color name="primary_text_color">#ffffffff</color>
+    <color name="apply_button_progress_color">#ff404040</color>
+    <color name="apply_button_default_color">#ff252525</color>
+	<color name="apply_button_pressed_color">#ff232323</color>
+    <color name="designed_for_color">#ff303030</color>
+    <color name="drawer_item_default">#ff232323</color>
+    <color name="drawer_item_pressed">#ff353535</color>
+    <color name="default_circle_indicator_fill_color">#ff303030</color>
+</resources>

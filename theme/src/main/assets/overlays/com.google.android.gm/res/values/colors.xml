@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>	
+	<color name="quantum_googred400">#ff151515</color>
+    <color name="quantum_googred500">#ff151515</color>
+    <color name="quantum_googred800">#ff0a0a0a</color>	
+
+	<color name="quantum_googblue500">#ff151515</color>
+	<color name="accent_blue">#ff151515</color>
+	<color name="blue">#ff151515</color>
+
+</resources>

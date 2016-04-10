@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <style name="Theme.YouTube.Settings" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:statusBarColor">#ff101010</item>
+		<item name="android:colorPrimary">#ff1b1b1b</item>
+		<item name="android:textColorPrimary">#ff787878</item>
+		<item name="android:textColorSecondary">#ff1b1b1b</item>
+    </style>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<color name="primary">#ff131313</color>
+    <color name="primary_dark">#ff0a0a0a</color>
+	<color name="default_status_bar_color">#ff0a0a0a</color>
+	
+	<color name="quantum_googgreen400">#ff8c8c8c</color>
+	<color name="quantum_googgreen500">#ff212021</color>
+    <color name="quantum_googgreen700">#ff212021</color>
+	
+	<color name="quantum_vanillagreenA400">#ff151515</color>
+	<color name="quantum_googgreenA400">#ff151515</color>
+		
+	<color name="pressed_bg">#70cccccc</color>
+    <color name="focused_bg">#4dcccccc</color>
+	<color name="bg_item_activated">#70cccccc</color>
+    <color name="bg_item_selected">#cccccccc</color>
+    <color name="bg_item_pressed">#70cccccc</color>
+	
+	<color name="dialpad_primary_text_color">#ff212021</color>
+    <color name="dialpad_secondary_text_color">#ff212021</color>
+    <color name="dialpad_digits_text_color">#ff212021</color>
+	
+	<color name="accent_dark">#ff454545</color>
+	<color name="accent_material_dark">#ff454545</color>
+	<color name="accent">#ff454545</color>
+
+	<color name="floating_action_button_pressed_color">#ff3f3f3f</color>
+    <color name="floating_action_button_unpressed_color">#ff323232</color>
+	<color name="quantum_bluegrey50">#fff6f6f6</color>
+	<color name="quantum_bluegrey100">#ffdcdcdc</color>
+	
+	<color name="quantum_bluegrey500">#ff151515</color>
+	
+	<color name="quantum_googgreenA200">#ffffffff</color>
+	<color name="quantum_vanillagreenA200">#ffffffff</color>
+	<color name="quantum_bluegrey700">#ff0a0a0a</color>
+	
+	<color name="quantum_grey500">#ff0a0a0a</color>
+	
+	<color name="action_bar_selected_button_text_color">#ffffffff</color>
+	<color name="action_bar_unselected_button_text_color">#ff535353</color>	
+
+</resources>
+
+<!--
+	<color name="text_secondary_default_color_dark">#ff949494</color>
+	<color name="text_tertiary_default_color_dark">#ff949494</color>
+	<color name="text_default_color_dark">#ff949494</color>
+	
+	<color name="quantum_googgreen700">#ff8c8c8c</color>
+    <color name="quantum_googgreen500">#ff8c8c8c</color>
+	
+	<color name="quantum_teal500">#ff8c8c8c</color>
+	
+	<color name="material_deep_teal_200">#ff212021</color>
+    <color name="material_deep_teal_500">#ff212021</color>
+    <color name="material_blue_grey_800">#ff212021</color>
+    <color name="material_blue_grey_900">#ff212021</color>
+    <color name="material_blue_grey_950">#ff212021</color>
+	
+	
+	<color name="dialpad_calling_rates_text_color">#ff8c8c8c</color>
+	<color name="hangout_call_rate">#70ffffff</color>
+	
+	
+	
+	
+	
+-->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="app_accent">#ff151515</color>
+<color name="app_primary">#ff151515</color>
+<color name="app_primary_dark">#ff0a0a0a</color>
+<color name="bg_actionbar">#ff151515</color>
+<color name="dark_green">#ff0a0a0a</color>
+<color name="mid_green">#ff151515</color>
+<color name="slightly_darker_green">#ff0a0a0a</color>
+</resources>
+
+<!--
+<color name="background_floating_material_dark">#ff424242</color>
+<color name="background_floating_material_light">#ffeeeeee</color>
+<color name="background_material_dark">#ff303030</color>
+<color name="background_material_light">#ffeeeeee</color>
+-->

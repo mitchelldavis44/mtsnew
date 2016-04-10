@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<color name="dialer_theme_color">#ff151515</color>
+    <color name="dialer_theme_color_dark">#ff0a0a0a</color>
+	
+	<color name="material_deep_teal_200">#ffd1d1d1</color>
+    <color name="material_deep_teal_500">#ff323232</color>
+	
+	<color name="dialtacts_theme_color">#ff303030</color>
+	
+	<color name="dialer_dialpad_touch_tint">#331f1f1f</color>
+	
+</resources>

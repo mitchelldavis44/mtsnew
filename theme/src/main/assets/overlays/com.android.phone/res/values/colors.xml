@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <color name="dialer_theme_color">#ff151515</color>
+    <color name="dialer_theme_color_dark">#ff0a0a0a</color>
+	<color name="people_app_theme_color">#ff151515</color>
+
+    <color name="network_operators_color_primary">#151515</color>
+    <color name="network_operators_color_primary_dark">#ff0a0a0a</color>
+	
+	<color name="settings_theme_primary">#ff151515</color>
+    <color name="settings_theme_primary_dark">#ff0a0a0a</color>
+	
+	<color name="setting_primary_color">#ff0a0a0a</color>
+    <color name="setting_secondary_color">#ff151515</color>
+	</resources>

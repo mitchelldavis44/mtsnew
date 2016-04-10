@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ampm_off">#ff404040</color>
+    <color name="ampm_on">#ffffffff</color>
+    <color name="time_text_color">#e6ffffff</color>
+    <color name="ampm_text_color">#99ffffff</color>
+    <color name="screen_saver_color">#ff212121</color>
+    <color name="screen_saver_dim_color">#ff151515</color>
+    <color name="action_bar_button_text_color">#ffffffff</color>
+    <color name="dialog_gray">#28ffffff</color>
+    
+    <color name="black">#ffffffff</color>
+    <color name="black_87p">#deffffff</color>
+    <color name="black_54p">#8affffff</color>
+    <color name="black_16p">#28ffffff</color>
+    <color name="white">#ffffffff</color>
+    <color name="white_69p">#b1ffffff</color>
+    
+    <color name="transparent">#00000000</color>
+    <color name="hot_pink">#ff212121</color>
+    <color name="hairline">#28ffffff</color>
+    
+    <color name="clock_white">#ffffffff</color>
+    <color name="clock_gray">#b3ffffff</color>
+    
+    <color name="status_bar">#00000000</color>
+
+</resources>

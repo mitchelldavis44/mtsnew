@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="play_multi_primary">#ff151515</color>
+    <color name="play_multi_primary_disabled">#ff151515</color>
+    <color name="play_multi_secondary">#ff222222</color>
+	<color name="play_multi_recents">#ff161616</color>
+	
+	<color name="apps_primary">#ff151515</color>
+    <color name="apps_primary_disabled">#ff151515</color>
+    <color name="apps_secondary">#ff222222</color>
+    <color name="apps_secondary_disabled">#ff151515</color>
+
+    <color name="books_primary">#ff151515</color>
+    <color name="books_primary_disabled">#ff151515</color>
+    <color name="books_secondary">#ff222222</color>
+
+    <color name="magazines_primary">#ff151515</color>
+    <color name="magazines_primary_disabled">#ff151515</color>
+    <color name="magazines_secondary">#ff222222</color>
+
+    <color name="movies_primary">#ff151515</color>
+    <color name="movies_primary_disabled">#ff151515</color>
+    <color name="movies_secondary">#ff222222</color>
+
+    <color name="music_primary">#ff151515</color>
+    <color name="music_primary_disabled">#ff151515</color>
+    <color name="music_secondary">#ff222222</color>
+
+    <color name="newsstand_primary">#ff151515</color>
+    <color name="newsstand_secondary">#ff222222</color>
+	<color name="newsstand_primary_disabled">#ff151515</color>
+
+    <color name="play_apps_primary">#ff151515</color>
+    <color name="play_apps_secondary">#ff222222</color>
+
+    <color name="play_movies_primary">#ff151515</color>
+    <color name="play_movies_secondary">#ff222222</color>
+
+    <color name="play_music_primary">#ff151515</color>
+    <color name="play_music_secondary">#ff222222</color>
+	
+	<color name="play_books_primary">#ff151515</color>
+    <color name="play_books_secondary">#ff222222</color>
+	
+    <color name="play_newsstand_primary">#ff151515</color>
+    <color name="play_newsstand_secondary">#ff222222</color>
+
+    <color name="status_bar_apps">#ff0a0a0a</color>
+    <color name="status_bar_books">#ff0a0a0a</color>
+    <color name="status_bar_movies">#ff0a0a0a</color>
+    <color name="status_bar_multi">#ff0a0a0a</color>
+    <color name="status_bar_music">#ff0a0a0a</color>
+    <color name="status_bar_newsstand">#ff0a0a0a</color>
+	
+	<color name="abc_search_url_text_normal">#ffc8c8c8</color>
+	
+	<color name="highlighted_text_material_light">#ffcecece</color>
+    <color name="material_deep_teal_200">#ff212021</color>
+    <color name="material_deep_teal_500">#ff212021</color>
+    <color name="material_blue_grey_800">#ff212021</color>
+    <color name="material_blue_grey_900">#ff212021</color>
+    <color name="material_blue_grey_950">#ff212021</color>
+	
+	<color name="whatsnew_apps">#ffe9e9e9</color>
+    <color name="whatsnew_apps_ent">#ffe9e9e9</color>
+    <color name="whatsnew_books">#ffe9e9e9</color>
+    <color name="whatsnew_movies">#ffe9e9e9</color>
+    <color name="whatsnew_music">#ffe9e9e9</color>
+    <color name="whatsnew_newsstand">#ffe9e9e9</color>
+	
+	<color name="status_bar_overlay">#ff0a0a0a</color>
+</resources>

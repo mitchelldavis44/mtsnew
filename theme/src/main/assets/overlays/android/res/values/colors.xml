@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<color name="ripple_material_light">#ffdfdfdf</color>
+	
+	<color name="system_notification_accent_color">#ff6c6c6c</color>
+	<color name="material_deep_teal_200">#ffd9d9d9</color>
+	<color name="material_deep_teal_500">#ff454545</color>
+	<color name="material_blue_grey_800">#ff1b1b1b</color>
+    <color name="material_blue_grey_900">#ff1b1b1b</color>
+    <color name="material_blue_grey_950">#ff1b1b1b</color>
+	
+	<color name="holo_blue_light">#ffb1b1b1</color>
+    <color name="holo_blue_dark">#ff919191</color>
+	<color name="holo_blue_bright">#ffeeeeee</color>
+	
+	<color name="ic_icons">#ff454545</color>
+	<color name="highlighted_text_material_light">#66777777</color>
+    <color name="highlighted_text_material_dark">#66777777</color>
+	<color name="secondary_text_default_material_dark">#ffe0e0e0</color>
+	
+	<color name="notification_mtrl_action_textcolor">@android:color/white</color>
+	<color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_media_primary_color">#ffffffff</color>
+	<color name="notification_mtrl_big_picture_bg">#ff151515</color>
+    <color name="notification_template_material_big_picture_background_color">#ff0c0c0c</color>
+    <color name="notification_icon_bg_color">#ffE5202B</color>
+    <color name="notification_media_secondary_color">#fff0f0f0</color>
+	<color name="white">#ffffffff</color>
+	
+    <color name="user_icon_1">#fff3f3f3</color>
+    <color name="user_icon_2">#fff3f3f3</color>
+    <color name="user_icon_3">#fff3f3f3</color>
+    <color name="user_icon_4">#fff3f3f3</color>
+    <color name="user_icon_5">#fff3f3f3</color>
+    <color name="user_icon_6">#fff3f3f3</color>
+    <color name="user_icon_7">#fff3f3f3</color>
+    <color name="user_icon_8">#fff3f3f3</color>	
+    <color name="user_icon_default_white">#fff3f3f3</color>
+
+    <!--&lt;!&ndash; 87% black &ndash;&gt;-->
+    <!--<color name="primary_text_default_material_light">#ffffff</color>-->
+    <!--&lt;!&ndash; 54% black &ndash;&gt;-->
+    <!--<color name="secondary_text_default_material_light">#ffffff</color>-->
+
+    <!--&lt;!&ndash; 100% white &ndash;&gt;-->
+    <!--<color name="primary_text_default_material_dark">#ffffff</color>-->
+    <!--&lt;!&ndash; 70% white &ndash;&gt;-->
+    <!--<color name="secondary_text_default_material_dark">#ffffff</color>-->
+
+    <!-- For settings framework -->
+    <color name="lighter_gray">#fff</color>
+    <color name="darker_gray">#fff</color>
+	
+</resources>

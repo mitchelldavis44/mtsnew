@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="quantum_googred700">#ff0a0a0a</color>
+	
+	<color name="riviera_promo_header_square">#ff151515</color>
+    <color name="quantum_googred500">#ff151515</color>
+    
+    <color name="material_deep_teal_200">#ffb2b2b2</color>
+	<color name="material_deep_teal_500">#ff272727</color>
+    <color name="material_blue_grey_800">#ff262626</color>
+    <color name="material_blue_grey_900">#ff151515</color>
+    <color name="material_blue_grey_950">#ff0a0a0a</color>
+	
+	<color name="quantum_bluegrey700">#ff151515</color>
+	
+	<color name="quantum_googgreen700">#ff0a0a0a</color>
+	<color name="quantum_googgreen500">#ff151515</color>
+	
+	<color name="quantum_grey500">#ff0a0a0a</color>
+	
+	<color name="tb_item_title_active">#ff151515</color>
+	<color name="quantum_googblue500_54">#ff151515</color>
+	<color name="quantum_googblue500">#ff151515</color>
+	
+	<color name="quantum_googblue100">#ffd3d3d3</color>
+	
+	<color name="quantum_lightblue700">#ff0a0a0a</color>
+	<color name="quantum_lightblue500">#ff151515</color>
+</resources>

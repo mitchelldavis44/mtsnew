@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="primary_dark">#ff1b1b1b</color>
+    <color name="primary">#ff1b1b1b</color>
+    <color name="accent">#ff1b1b1b</color>
+	<color name="default_background">#ff000000</color>
+	<color name="material_blue_grey_950">#ff000000</color>
+    <color name="background_screen">#ff000000</color>
+    <color name="filtershow_background">#ff000000</color>
+    <color name="filtershow_categoryview_background">#ff000000</color>
+	<color name="fab">#ff212021</color>
+	<color name="floating_action_button_touch_tint">#ff777777</color>
+    <color name="background_toolbar">#ff212021</color>
+    <color name="background_main_toolbar">#ff1b1b1b</color>
+</resources>

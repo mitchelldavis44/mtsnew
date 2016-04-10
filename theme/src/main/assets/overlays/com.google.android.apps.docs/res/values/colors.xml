@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <color name="primary_dark_material_light">#ff0a0a0a</color>
+   
+    <color name="m_app_secondary">#ff0a0a0a</color>
+    <color name="m_app_status_bar">#ff0a0a0a</color>
+    
+
+
+    
+    <color name="quantum_googred">#ff0a0a0a</color>
+    <color name="material_deep_teal_200">#ff0a0a0a</color>
+    <color name="material_deep_teal_500">#ff151515</color>
+    <color name="material_blue_grey_800">#ff151515</color>
+    <color name="material_blue_grey_900">#ff151515</color>
+    <color name="material_blue_grey_950">#ff0a0a0a</color>
+
+
+</resources>
+
+<!--
+     <color name="m_actionbar_background">#ff1b1b1b</color>
+    <color name="m_actionbar_icon">#ffffffff</color>
+	<color name="m_app_overlay_shadow">#88000000</color>
+	
+	<color name="m_black_87_percent">#ff303030</color> 
+	<color name="m_icon_primary_inverse_tint">@color/m_material_button_dark</color>
+	<color name="m_material_button_dark">#ffcecece</color>
+	<color name="m_material_button_light">#ffcecece</color>
+	<color name="m_icon_secondary_tint">#ffcecece</color>
+    <color name="m_icon_tertiary_tint">#ffcecece</color>
+
+    <color name="menu_item_default">#ffe7e7e7</color>
+    <color name="ds_actionbar_background_color">#fff8f8f8</color>
+    <color name="ds_actionbar_title_color">#ffffffff</color>
+    
+    <color name="ds_primary_text_color">#ff949494</color>
+    
+  
+    <color name="swipe_to_refresh_text_color">#ff969696</color>
+    <color name="m_icon_action_bar">#ffffffff</color>
+    <color name="m_actionbar_text">@android:color/white</color>
+    <color name="m_app_primary">#ffcecece</color>
+    <color name="m_actionbar_icon_drawer_color">#fff8f8f8</color>
+    
+    <color name="background_material_dark">#ff303030</color>
+    <color name="background_material_light">#ffeeeeee</color>
+    <color name="background_floating_material_dark">#ff424242</color>
+    <color name="background_floating_material_light">#ffeeeeee</color>
+    <color name="primary_material_dark">#ff003766</color>
+    <color name="primary_material_light">#ff1b1b1b</color>
+    <color name="primary_dark_material_dark">#ff000000</color>
+	
+    
+-->

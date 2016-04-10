@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ff25282D</color>
+    <color name="primary_dark">#ff25282D</color>
+    <color name="accent">#ffE5202B</color>
+    <color name="floating_action_button_touch_tint">#ffE5202B</color>
+</resources>

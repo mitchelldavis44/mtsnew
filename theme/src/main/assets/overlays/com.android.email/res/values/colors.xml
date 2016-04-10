@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="statusbar_orange">#ff0a0a0a</color>
+    <color name="primary_color">#ff151515</color>
+    <color name="primary_dark_color">#ff0a0a0a</color>
+    <color name="accent_material_light">#ff151515</color>
+
+   
+</resources>

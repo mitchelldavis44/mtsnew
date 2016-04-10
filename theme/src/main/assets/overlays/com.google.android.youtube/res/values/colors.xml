@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>	
+	<color name="account_switcher_color_primary">#ff151515</color>
+	<color name="upload_edit_video_tutorial_background">#ff151515</color>
+	<color name="color_primary">#ffe1e1e1</color>
+	<color name="q_subscribe_button_subscribe_font_color">#ff151515</color>
+	<color name="theme_main_color_primary">#ff151515</color>
+    <color name="theme_main_color_primary_dark">#ff0a0a0a</color>
+    <color name="theme_main_tab_text_color_normal">#ff6a6a6a</color>
+    <color name="theme_main_tab_text_color_activated">#ffffffff</color>
+    <color name="theme_channel_color_primary">#ff151515</color>
+    <color name="theme_channel_color_primary_dark">#ff0a0a0a</color>
+    <color name="theme_channel_actionbar_text_color_primary">#ffffffff</color>
+    <color name="theme_channel_actionbar_text_color_secondary">#ffffffff</color>
+	<color name="theme_search_color_primary">#ffe1e1e1</color>
+	<color name="theme_search_color_primary_dark">#ff0a0a0a</color>
+	<color name="theme_search_actionbar_text_color_primary">#ffffffff</color>
+	<color name="theme_search_actionbar_text_color_secondary">#ffffffff</color>
+    <color name="theme_watch_color_primary">#ff151515</color>
+    <color name="theme_watch_color_primary_dark">#ff0a0a0a</color>
+    <color name="theme_watch_actionbar_text_color_primary">#ffffffff</color>
+    <color name="theme_watch_actionbar_text_color_secondary">#ffffffff</color>
+    <color name="theme_native_color_primary">#ff151515</color>
+    <color name="theme_native_color_primary_dark">#ff0a0a0a</color>
+    <color name="theme_native_actionbar_text_color_primary">#ffffffff</color>
+    <color name="theme_native_actionbar_text_color_secondary">#ffffffff</color>
+	<color name="theme_main_actionbar_controls_color">#ffffffff</color>
+    <color name="playlist_header_color_primary">#ff151515</color>
+    <color name="playlist_header_color_primary_dark">#ff0a0a0a</color>
+
+    <color name="material_deep_teal_500">#ff212021</color>
+    <color name="material_blue_grey_950">#ff212021</color>
+	
+	
+	<color name="material_deep_teal_200">#ff151515</color>
+    <color name="material_blue_grey_800">#ff151515</color>
+    <color name="material_blue_grey_900">#ff151515</color>
+    <color name="theme_main_color_accent">#ff151515</color>
+    <color name="primary_material_light">#ff151515</color>
+    <color name="primary_dark_material_dark">#ff151515</color>
+
+    <color name="app_bar_primary_background">#ff151515</color>    
+    <color name="red">#ff151515</color>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing CMFileManager.apk's Drawables-->
+<!--LAST REVISED ON: 9:37PM EST 10/02/2015-->
+
+<resources>
+    <item type="drawable" name="statusbar_drawable">@color/grey</item>
+    <item type="drawable" name="bg_material_selectionbar">@color/whitish_grey</item>
+    <item type="drawable" name="bg_material_titlebar">@color/grey</item>
+    <item type="drawable" name="bg_material_statusbar">@color/grey</item>
+    <item type="drawable" name="bg_header">@color/grey</item>
+</resources>

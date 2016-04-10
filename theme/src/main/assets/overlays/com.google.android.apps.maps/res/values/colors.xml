@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<color name="kitkat_blue">#ff151515</color>
+	<color name="new_location_accuracy_fill">#23303030</color>
+    <color name="new_location_accuracy_line">#73303030</color>
+	<color name="qu_google_blue_500">#ff151515</color>
+	<color name="quantum_googblue500">#ff151515</color>
+	<color name="google_blue">#ff151515</color>
+	
+	<color name="qu_google_blue_100">#ffc7c7c7</color>
+	<color name="quantum_googblue100">#ffc7c7c7</color>
+	
+	<color name="car_green_500">#ff151515</color>
+	<color name="qu_google_green_500">#ff151515</color>
+	
+	<color name="qu_google_blue_400">#ff151515</color>
+	<color name="quantum_googblue400">#ff151515</color>
+	
+	<color name="quantum_googgreen600">#ff151515</color>
+	<color name="qu_google_green_600">#ff151515</color>
+	<color name="quantum_googgreen500">#ff151515</color>
+
+</resources>

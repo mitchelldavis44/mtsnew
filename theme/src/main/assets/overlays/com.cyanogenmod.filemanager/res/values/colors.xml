@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#ff212021</color>
+    <color name="black">#ff000000</color>
+	<color name="black_transparent">#66000000</color>
+    <color name="whitish_grey">#ff777777</color>
+
+    <color name="text_color">@color/black</color>	
+    <color name="actionbar_palette_blue_primary">@color/grey</color>
+    <color name="material_palette_blue_primary">@color/grey</color>
+    <color name="material_palette_blue_primary_dark">@color/grey</color>
+    <color name="material_palette_blue_accent_dark">@color/black_transparent</color>
+    <color name="material_palette_blue_3">@color/whitish_grey</color>
+</resources>
